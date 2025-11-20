@@ -1,0 +1,81 @@
+Below are the information that was submitted on the website
+Firstname: ktwkntkwnk
+Lastname: ejfjwngjwnfgwj
+Gender: Female
+dob: 2025-11-12
+state: Cross River
+qualification: B.A
+degree_class: Second Class Upper
+
+Below are the information that was submitted on the website
+Firstname: hjjjjjjjjjjjjjj
+Lastname: iiiiiiiiiiiiiiiiiiii
+Gender: Male
+dob: 2025-11-21
+state: Ekiti
+qualification: NCE
+degree_class: Second Class Lower
+
+Below are the information that was submitted on the website
+Firstname: hjjjjjjjjjjjjjj
+Lastname: iiiiiiiiiiiiiiiiiiii
+Gender: Male
+dob: 2025-11-21
+state: Ekiti
+qualification: NCE
+degree_class: Second Class Lower
+
+Below are the information that was submitted on the website
+Firstname: hjjjjjjjjjjjjjj
+Lastname: iiiiiiiiiiiiiiiiiiii
+Gender: Male
+dob: 2025-11-21
+state: Ekiti
+qualification: NCE
+degree_class: Second Class Lower
+
+Below are the information that was submitted on the website
+Firstname: hhhhhhhh
+Lastname: iiiiiiiiiiiiiiiiiiii
+Gender: Male
+dob: 2025-11-21
+state: Ekiti
+qualification: NCE
+degree_class: Second Class Lower
+
+Below are the information that was submitted on the website
+Firstname: hhhhhhhh
+Lastname: iiiiiiiiiiiiiiiiiiii
+Gender: Male
+dob: 2025-11-21
+state: Ekiti
+qualification: NCE
+degree_class: Second Class Lower
+
+Below are the information that was submitted on the website
+Firstname: hhhhhhhh
+Lastname: iiiiiiiiiiiiiiiiiiii
+Gender: Male
+dob: 2025-11-21
+state: Ekiti
+qualification: NCE
+degree_class: Second Class Lower
+
+Below are the information that was submitted on the website
+Firstname: hhhhhhhh
+Lastname: iiiiiiiiiiiiiiiiiiii
+Gender: Male
+dob: 2025-11-21
+state: Ekiti
+qualification: NCE
+degree_class: Second Class Lower
+
+Below are the information that was submitted on the website
+Firstname: jjjjjjjjjjjjjjjjjjjjj
+Lastname: ddddddddddddddddddddddd
+Gender: Male
+dob: 2025-11-12
+state: Enugu
+qualification: B.A
+degree_class: Second Class Upper
+
